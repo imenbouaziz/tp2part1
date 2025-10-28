@@ -38,7 +38,7 @@ Pour générer uniquement le **graphe de couplage** :
 
 ---
 
-## ⚙️ Remarques sur les chemins
+## Remarques sur les chemins
 - Tous les chemins de fichiers/dossiers (entrée et sortie) sont définis **dans le code source**  
 - Modifiez-les selon votre organisation de projet avant de lancer les programmes  
 
